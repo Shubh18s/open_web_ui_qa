@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding Quantum Physics",
+      "content": "Quantum physics is the study of the very small, dealing with atoms and subatomic particles. It introduces concepts like superposition and entanglement."
+    },
+    {
+      "id": 2,
+      "title": "The History of Artificial Intelligence",
+      "content": "The concept of AI dates back to ancient myths, but the field truly began in the mid-20th century with thinkers like Alan Turing."
+    },
+    {
+      "id": 3,
+      "title": "Benefits of Exercise",
+      "content": "Regular physical activity has numerous benefits, including improved cardiovascular health, weight management, and mood enhancement."
+    }
+  ]
